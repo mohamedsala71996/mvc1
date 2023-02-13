@@ -1,4 +1,11 @@
 {
+  
+    "name": "mohamedsalah/MVCproject",
+    "description": "small MVC project",
+    "require": {
+        "php": ">=8.1.6",
+        "another-vendor/package": "1.*"
+    },
     "autoload": {
         "psr-4":{
             "MVC\\":"app"
